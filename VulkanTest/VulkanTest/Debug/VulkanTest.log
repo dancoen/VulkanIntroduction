@@ -1,0 +1,3 @@
+﻿  VulkanTest.cpp
+c:\users\danco\projects\vulkanintroduction\vulkantest\vulkantest\vulkantest.cpp(95): warning C4018: '<': signed/unsigned mismatch
+  VulkanTest.vcxproj -> C:\Users\danco\projects\VulkanIntroduction\VulkanTest\Debug\VulkanTest.exe
